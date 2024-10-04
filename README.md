@@ -200,3 +200,6 @@ Time to submit your solution for testing.
 [github_actions]: ../../actions
 [github_repo]: ../../
 
+
+# GitExerciseOther
+
